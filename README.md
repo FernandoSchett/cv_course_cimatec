@@ -1,23 +1,26 @@
-# Formação Técnica SENAI CIMATEC - Atos Bull
-## Sobre o Curso
-### Ênfase
-O objetivo dessa formação é consolidar mão-de-obra qualificada na área de <b>Visão Computacional</b> por meio de exercícios práticos, aplicados aos mais diversos contextos, principalmente Processamento de Imagens e Robótica.
 
-### Equipe
-* Professores:
-	* Lucas Amparo Barbosa
-		* Mestre em Ciência da Computação (UFBA)
-		* [Currículo](https://lucasamparo.github.io)
-	* Ivan Oliveira Tarifa
-		* Mestrando em Engenharia Mecânica (UFU)
-		* [Currículo](http://lattes.cnpq.br/9965035625458999)
-* Coordenação:
-	* Adhvan Novaes Furtado
-		* Gerente de Computação (SENAI/CIMATEC)
-		* [Currículo](http://lattes.cnpq.br/2180231474465012)
+### This READ.md template was written based on this [repository](https://github.com/FernandoSchett/github_readme_template).
 
-## Conteúdo
-O conteúdo será inserido a medida que for apresentado na formação.
+<h1 align="center">🌠 Formação Técnica SENAI CIMATEC - Atos Bull 🌠</h1>
+
+<div align="center">
+	<a href="link_for_webite">
+	<img height = "250em" src = "" />
+    </a>
+</div>
+
+## Equipe 💻:
+
+- **Professor**, [Lucas Amparo Barbosa](https://lucasamparo.github.io) - MCS. Ciência da Computação (UFBA).
+- **Professor**, [Ivan Oliveira Tarifa](http://lattes.cnpq.br/9965035625458999) - MCS. Engenharia Mecânica.
+- **Coordenador**, [Adhvan Novaes Furtado](http://lattes.cnpq.br/2180231474465012) - Gerente de Computação (SENAI/CIMATEC).
+
+## Sobre 🤔:
+
+O objetivo dessa formação é consolidar mão-de-obra qualificada na área de **Visão Computacional** por meio de exercícios práticos, aplicados aos mais diversos contextos, principalmente Processamento de Imagens e Robótica.
+
+## Ementa do Curso 🏫:
+
 <details>
 <summary>Aula 1 - Dia 08/10</summary>
 	<ul>
@@ -140,16 +143,46 @@ O conteúdo será inserido a medida que for apresentado na formação.
   </ul>
 </details>
 
-## Licença
-Todos os códigos desse repositório estão sob Licença Apache v2.
-Podem ser utilizados, reproduzidos e repassados sem qualquer restrição, <b>desde que os devidos créditos sejam dados</b>
 
-## Bibliografia Básica
-<b>OpenCV: Computer Vision Projects with Python - Learning Path</b><br>
-Howse, Joseph & Joshi, Prateek & Beyeler, Michael.<br>
-Editora Packt. [Disponível nesse link.](https://www.packtpub.com/application-development/opencv-computer-vision-projects-python)
 
-<b>Mastering OpenCV 3</b><br>
-Baggio, Daniel Lélis <i>et al.</i><br>
-Editora Packt. [Disponível nesse link.](https://www.amazon.com/Mastering-OpenCV-Daniel-L%C3%A9lis-Baggio-ebook/dp/B01N7G0BKE)
+## Dependencies 🚚:
+
+The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+
+- 
+- 
+
+For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
+
+    pip3 install -r ./dependencies/requirements.txt
+
+Make sure you have all Dependencies before running the project.
+
+
+## Development Process ⚙️:
+
+Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
+
+### Tools Used 🛠️: 
+
+- [Tool](http:link.com). 
+- 
+- 
+
+## How to contribute 🫂:
+
+Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at <app_name>.
+
+## licença 📜:
+
+Todos os códigos desse repositório estão sob a licença [Apache V2](https://choosealicense.com/licenses/apache-2.0/). Podem ser utilizados, reproduzidos e repassados sem qualquer restrição, **desde que os devidos créditos sejam dados**.
+
+## Bibliografia Básica 📙:
+
+[1] HOWSE, Joseph; JOSHI, Prateek; BEYELER, Michael. OpenCV: Computer Vision Projects with Python - Learning Path. Editora Packt, 20XX. Disponível em: <https://subscription.packtpub.com/search?query=opencv%20computer%20vision%20projects%20python>. Acesso em: 18 de junho de 2023.
+
+[2] BAGGIO, Daniel Lélis et al. Mastering OpenCV 3. Editora Packt, 20XX. Disponível em: <https://www.amazon.com/Mastering-OpenCV-Daniel-L%C3%A9lis-Baggio-ebook/dp/B01N7G0BKE>. Acesso em: 18 de junho de 2023.
+
+## Resultados do Curso 📈:
+
 
