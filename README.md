@@ -172,9 +172,9 @@ Todos os códigos desse repositório estão sob a licença [Apache V2](https://c
 
 ## Bibliografia Básica 📙:
 
-[1] HOWSE, Joseph; JOSHI, Prateek; BEYELER, Michael. OpenCV: Computer Vision Projects with Python - Learning Path. Editora Packt, 20XX. Disponível em: <https://subscription.packtpub.com/search?query=opencv%20computer%20vision%20projects%20python>. Acesso em: 18 de junho de 2023.
+[1] HOWSE, Joseph; JOSHI, Prateek; BEYELER, Michael. **OpenCV: Computer Vision Projects with Python - Learning Path**. Editora Packt, 20XX. Disponível em: <https://subscription.packtpub.com/search?query=opencv%20computer%20vision%20projects%20python>. Acesso em: 18 de junho de 2023.
 
-[2] BAGGIO, Daniel Lélis et al. Mastering OpenCV 3. Editora Packt, 20XX. Disponível em: <https://www.amazon.com/Mastering-OpenCV-Daniel-L%C3%A9lis-Baggio-ebook/dp/B01N7G0BKE>. Acesso em: 18 de junho de 2023.
+[2] BAGGIO, Daniel Lélis et al. **Mastering OpenCV 3**. Editora Packt, 20XX. Disponível em: <https://www.amazon.com/Mastering-OpenCV-Daniel-L%C3%A9lis-Baggio-ebook/dp/B01N7G0BKE>. Acesso em: 18 de junho de 2023.
 
 ## Resultados do Curso 📈:
 
