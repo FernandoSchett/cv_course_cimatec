@@ -11,9 +11,9 @@
 
 ## Equipe 💻:
 
-- **Professor**, [Lucas Amparo Barbosa](https://lucasamparo.github.io) - MCS. Ciência da Computação (UFBA).
+- **Professor**, [Lucas Amparo Barbosa](https://lucasamparo.github.io) - MCS. Ciência da Computação [UFBA](https://www.ufba.br/).
 - **Professor**, [Ivan Oliveira Tarifa](http://lattes.cnpq.br/9965035625458999) - MCS. Engenharia Mecânica.
-- **Coordenador**, [Adhvan Novaes Furtado](http://lattes.cnpq.br/2180231474465012) - Gerente de Computação (SENAI/CIMATEC).
+- **Coordenador**, [Adhvan Novaes Furtado](http://lattes.cnpq.br/2180231474465012) - Gerente de Computação no [SENAI/CIMATEC](https://www.senaicimatec.com.br/).
 
 ## Sobre 🤔:
 
@@ -145,35 +145,28 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 
 
 
-## Dependencies 🚚:
+## Dependências 🚚:
 
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+As dependências do projeto são descritas em um arquivo de dependências dentro do repositório. Em resumo, aqui está o que você vai precisar para executar o projeto:
 
-- 
-- 
-
-For installing dependencies more quickly, you can run the following command at terminal, inside the clonned repository:
+Para instalar as dependências mais rapidamente, você pode executar o seguinte comando no terminal, dentro do repositório clonado:
 
     pip3 install -r ./dependencies/requirements.txt
 
-Make sure you have all Dependencies before running the project.
+Certifique-se de ter todas as dependências antes de começar o curso.
 
+## Processo de Desenvolvimento ⚙️:
 
-## Development Process ⚙️:
-
-Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in xx/xx/20xx until xx/xx/20xx.
-
-### Tools Used 🛠️: 
+### Ferramentas utilizadas 🛠️: 
 
 - [Tool](http:link.com). 
 - 
 - 
 
-## How to contribute 🫂:
+## Como contribuir 🫂:
 
-Feel free to create a new branch, fork the project, create a new Issue or make a pull request contact one of us to develop at <app_name>.
 
-## licença 📜:
+## Licença 📜:
 
 Todos os códigos desse repositório estão sob a licença [Apache V2](https://choosealicense.com/licenses/apache-2.0/). Podem ser utilizados, reproduzidos e repassados sem qualquer restrição, **desde que os devidos créditos sejam dados**.
 
