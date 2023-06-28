@@ -147,23 +147,23 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 
 As dependências do projeto são descritas em um arquivo de dependências dentro do repositório. Em resumo, aqui está o que você vai precisar para executar o projeto:
 
-- ```[cmake]()```.
-- ```[opencv]()```.
-- ```[git]()```.
-- ```[libgtk2.0-dev]()```.
-- ```[pkg-config]()```.
-- ```[libavcodec-dev]()```.
-- ```[libavformat-dev]()```.
-- ```[libswscale-dev]()```.
-- ```[python-dev]()```.
-- ```[python-numpy]()```.
-- ```[libtbb2]()```.
-- ```[libtbb-dev]()```.
-- ```[libjpeg-dev]()```.
-- ```[libpng-dev]()```.
-- ```[libtiff-dev]()```.
-- ```[libjasper-dev]()```.
-- ```[libdc1394-22-dev]()```.
+- [```cmake```]().
+- [```opencv```]().
+- [```git```]().
+- [```libgtk2.0-dev```]().
+- [```pkg-config```]().
+- [```libavcodec-dev```]().
+- [```libavformat-dev```]().
+- [```libswscale-dev```]().
+- [```python-dev```]().
+- [```python-numpy```]().
+- [```libtbb2```]().
+- [```libtbb-dev```]().
+- [```libjpeg-dev```]().
+- [```libpng-dev```]().
+- [```libtiff-dev```]().
+- [```libjasper-dev```]().
+- [```libdc1394-22-dev```]().
 
 Para instalar as dependências mais rapidamente, você pode executar o seguinte comando no terminal, dentro do repositório clonado:
 
@@ -193,5 +193,3 @@ Todos os códigos desse repositório estão sob a licença [Apache V2](https://c
 [2] BAGGIO, Daniel Lélis et al. **Mastering OpenCV 3**. Editora Packt, 20XX. Disponível em: <https://www.amazon.com/Mastering-OpenCV-Daniel-L%C3%A9lis-Baggio-ebook/dp/B01N7G0BKE>. Acesso em: 18 de junho de 2023.
 
 ## Resultados do Curso 📈:
-
-
