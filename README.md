@@ -143,11 +143,13 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 
-
-
 ## Dependências 🚚:
 
 As dependências do projeto são descritas em um arquivo de dependências dentro do repositório. Em resumo, aqui está o que você vai precisar para executar o projeto:
+
+-
+-
+-
 
 Para instalar as dependências mais rapidamente, você pode executar o seguinte comando no terminal, dentro do repositório clonado:
 
@@ -157,11 +159,12 @@ Certifique-se de ter todas as dependências antes de começar o curso.
 
 ## Processo de Desenvolvimento ⚙️:
 
-### Ferramentas utilizadas 🛠️: 
+### Ferramentas utilizadas 🛠️:
 
-- [Tool](http:link.com). 
-- 
-- 
+- [VScode](https://code.visualstudio.com/).
+- [OpenCV](https://opencv.org/).
+- [Cmake](https://cmake.org/).
+- []().
 
 ## Como contribuir 🫂:
 
