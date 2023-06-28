@@ -4,6 +4,6 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 git clone https://github.com/opencv/opencv.git
 cd opencv
 mkdir release && cd release
-cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local .. -D WITH_TBB=ON -D WITH_V4L=ON -D WITH_QT=ON -D WITH_OPENGL=ON-D WITH_GDAL=ON -D WITH_XINE=ON -D BUILD_EXAMPLES=ON 
 make
 sudo make install
