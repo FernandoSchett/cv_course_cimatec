@@ -22,7 +22,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 ## Ementa do Curso 🏫:
 
 <details>
-<summary>Aula 1 - Introdução a OpenCV e Filtros 08/10</summary>
+<summary>(08/10)Aula 1 - Introdução a OpenCV e Filtros</summary>
 	<ul>
 		<li>Conteúdo</li>
 		<ul>
@@ -35,7 +35,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 	</ul>
 </details>
 <details>
-<summary>Aula 2 - Dia 09/10</summary>
+<summary>(09/10)Aula 2 -</summary>
 	<ul>
 		<li>Conteúdo</li>
 		<ul>
@@ -49,7 +49,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 	</ul>
 </details>
 <details>
-<summary>Aula 3 - Dia 14/10</summary>
+<summary>(14/10)Aula 3 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -62,7 +62,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Aula 4 - Dia 16/10</summary>
+<summary>(06/10)Aula 4 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -75,7 +75,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Aula 5 - Dia 21/10</summary>
+<summary>(21/10)Aula 5 -</summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -90,7 +90,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Aula 6 - Dia 23/10</summary>
+<summary>(23/10)Aula 6 -</summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -104,7 +104,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Aula 7 - Dia 28/10</summary>
+<summary>(28/10)Aula 7 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -118,7 +118,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Aula 8 - Dia 30/10</summary>
+<summary>(30/10)Aula 8 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -130,7 +130,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>Desafios Finais - Dia 01/11</summary>
+<summary>(01/11)Desafios Finais - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
