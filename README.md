@@ -22,7 +22,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 ## Ementa do Curso 🏫:
 
 <details>
-<summary>(08/10)Aula 1 - Introdução a OpenCV e Filtros</summary>
+<summary>(08/10) Aula 1 - Introdução a OpenCV e Filtros</summary>
 	<ul>
 		<li>Conteúdo</li>
 		<ul>
@@ -35,7 +35,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 	</ul>
 </details>
 <details>
-<summary>(09/10)Aula 2 -</summary>
+<summary>(09/10) Aula 2 -</summary>
 	<ul>
 		<li>Conteúdo</li>
 		<ul>
@@ -49,7 +49,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 	</ul>
 </details>
 <details>
-<summary>(14/10)Aula 3 - </summary>
+<summary>(14/10) Aula 3 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -62,7 +62,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(06/10)Aula 4 - </summary>
+<summary>(06/10) Aula 4 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -75,7 +75,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(21/10)Aula 5 -</summary>
+<summary>(21/10) Aula 5 -</summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -90,7 +90,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(23/10)Aula 6 -</summary>
+<summary>(23/10) Aula 6 -</summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -104,7 +104,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(28/10)Aula 7 - </summary>
+<summary>(28/10) Aula 7 - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
@@ -118,10 +118,10 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(30/10)Aula 8 - </summary>
+<summary>(30/10) Aula 8 - </summary>
   <ul>
     <li>Conteúdo</li>
-    <ul>
+    <ul> 
       <li>Reconhecimento em Geral</li>
       <li>Reconhecimento Facial</li>
       <li>Reconhecimento de Emoções</li>
@@ -130,7 +130,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
   </ul>
 </details>
 <details>
-<summary>(01/11)Desafios Finais - </summary>
+<summary>(01/11) Desafios Finais - </summary>
   <ul>
     <li>Conteúdo</li>
     <ul>
