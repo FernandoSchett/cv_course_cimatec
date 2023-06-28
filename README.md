@@ -22,7 +22,7 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 ## Ementa do Curso 🏫:
 
 <details>
-<summary>Aula 1 - Dia 08/10</summary>
+<summary>Aula 1 - Introdução a OpenCV e Filtros 08/10</summary>
 	<ul>
 		<li>Conteúdo</li>
 		<ul>
