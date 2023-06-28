@@ -121,3 +121,9 @@ void FilterSource::strokeEdges(int state, void* userData) {
     cv::imshow("Result", result);
 
 }
+
+void FilterSource::originalImage(int state, void* userData) {
+    
+    FilterSource* filter_object = (FilterSource*) userData;
+    cv::imshow("Result", filter_object->original_image);
+}

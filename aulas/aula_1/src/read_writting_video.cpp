@@ -82,7 +82,11 @@ int main( int argc, const char** argv ) {
     cv::createButton("Defining edges",
         &FilterSource::strokeEdges,
         &filters, cv::QT_PUSH_BUTTON, 0);
-
+    
+    cv::createButton("Original Image",
+        &FilterSource::originalImage,
+        &filters, cv::QT_PUSH_BUTTON, 0);
+    
     cv::waitKey(0);
 	return 0;
     
