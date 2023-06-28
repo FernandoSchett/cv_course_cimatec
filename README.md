@@ -147,13 +147,27 @@ O objetivo dessa formação é consolidar mão-de-obra qualificada na área de *
 
 As dependências do projeto são descritas em um arquivo de dependências dentro do repositório. Em resumo, aqui está o que você vai precisar para executar o projeto:
 
--
--
--
+- ```[cmake]()```.
+- ```[opencv]()```.
+- ```[git]()```.
+- ```[libgtk2.0-dev]()```.
+- ```[pkg-config]()```.
+- ```[libavcodec-dev]()```.
+- ```[libavformat-dev]()```.
+- ```[libswscale-dev]()```.
+- ```[python-dev]()```.
+- ```[python-numpy]()```.
+- ```[libtbb2]()```.
+- ```[libtbb-dev]()```.
+- ```[libjpeg-dev]()```.
+- ```[libpng-dev]()```.
+- ```[libtiff-dev]()```.
+- ```[libjasper-dev]()```.
+- ```[libdc1394-22-dev]()```.
 
 Para instalar as dependências mais rapidamente, você pode executar o seguinte comando no terminal, dentro do repositório clonado:
 
-    pip3 install -r ./dependencies/requirements.txt
+    sh ./dependencies/install_tools
 
 Certifique-se de ter todas as dependências antes de começar o curso.
 
@@ -164,7 +178,6 @@ Certifique-se de ter todas as dependências antes de começar o curso.
 - [VScode](https://code.visualstudio.com/).
 - [OpenCV](https://opencv.org/).
 - [Cmake](https://cmake.org/).
-- []().
 
 ## Como contribuir 🫂:
 
